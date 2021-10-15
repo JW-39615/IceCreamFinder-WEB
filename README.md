@@ -1,3 +1,8 @@
 # IceCreamFinder
 
-Team: Jakub Wałęga, Maciej Zienkiewicz, Marcin Fras
+Team: 
+<ul>
+  <li> Jakub Wałęga </li>
+  <li> Maciej Zienkiewicz </li>
+  <li> Marcin Fras </li>
+</ul>
